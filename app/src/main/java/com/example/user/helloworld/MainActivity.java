@@ -47,4 +47,5 @@ public class MainActivity extends AppCompatActivity {
     public void onDestroy() {
         super.onDestroy();
         Log.d(msg, "The onDestroy() event");
+    }
 }
