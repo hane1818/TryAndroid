@@ -1,5 +1,0 @@
-<resources>
-    <string name="app_name">HelloWorld</string>
-    <string name="hello">Hello My First Text View</string>
-    <string name="title_activity_main">MainActivity</string>
-</resources>
